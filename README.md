@@ -1,2 +1,2 @@
-# hello-word
+# dudu
 just another repository
